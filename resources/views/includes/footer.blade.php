@@ -5,48 +5,50 @@
         <div class="row gy-4">
           <div class="col-lg-5 col-md-12 footer-info">
             <a href="index.html" class="logo d-flex align-items-center">
-              <img src="assets/img/logo.png" alt="">
-              <span>FlexStart</span>
+              <img src="assets/img/favicon.png" alt="logo">
             </a>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+            <p>El&co Cloud Consulting is peoples favourite place to build their dream cloud software. We help people to design and build beautiful apps (web/mobile).</p>
             <div class="social-links mt-3">
-              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-              <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+              {{-- <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a> --}}
+              <a href="https://wa.me/6281221133430?text=Halo%20tim%20elnco%20saya%20tertarik%20untuk%20membangun%20software%20dan%20ingin%20berkonsultasi%20apakah%20bisa%20dibantu?" class="whatsapp"><i class="bi bi-whatsapp"></i></a>
+              <a href="https://www.instagram.com/elnco.id/" class="instagram"><i class="bi bi-instagram"></i></a>
+              <a href="https://www.linkedin.com/company/pt-elnco-teknologi-horizon" class="linkedin"><i class="bi bi-linkedin"></i></a>
             </div>
           </div>
 
           <div class="col-lg-2 col-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>Company</h4>
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">About</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">Contact</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">Career</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
           </div>
 
           <div class="col-lg-2 col-6 footer-links">
-            <h4>Our Services</h4>
+            <h4>Study Cases</h4>
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">Retail Industry</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">F&B Industry</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">Management</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">Supply Chain Industry</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">Startup</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
             <h4>Contact Us</h4>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              Arcade Business Center
+              6th Floor, Unit 6-03
+              Pantai Indah Kapuk <br>
+              Jakarta Utara, DKI Jakarta<br>
+              Indonesia <br><br>
+              <strong>Phone:</strong> +62 812-2113-3430<br>
+              <strong>Email:</strong> cs@elnco.id<br>
             </p>
 
           </div>
@@ -57,7 +59,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>FlexStart</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>El&co Cloud Consulting</span></strong>. All Rights Reserved
       </div>
     </div>
   </footer>

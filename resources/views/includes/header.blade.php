@@ -2,7 +2,7 @@
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <a href="/" class="logo d-flex align-items-center">
-        <img width="75px" height="auto" src="assets/img/favicon.png" alt="logo">
+        <img width="75px" height="auto" src="{{asset('assets/img/favicon.png')}}" alt="logo">
       </a>
 
       <nav id="navbar" class="navbar">

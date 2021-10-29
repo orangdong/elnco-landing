@@ -4,7 +4,7 @@
       <div class="container">
         <div class="row gy-4">
           <div class="col-lg-5 col-md-12 footer-info">
-            <a href="index.html" class="logo d-flex align-items-center">
+            <a href="/" class="logo d-flex align-items-center">
               <img src="assets/img/favicon.png" alt="logo">
             </a>
             <p>El&co Cloud Consulting is peoples favourite place to build their dream cloud software. We help people to design and build beautiful apps (web/mobile).</p>

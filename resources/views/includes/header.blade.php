@@ -1,7 +1,7 @@
 <header id="header" class="header fixed-top">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
-      <a href="index.html" class="logo d-flex align-items-center">
+      <a href="/" class="logo d-flex align-items-center">
         <img width="75px" height="auto" src="assets/img/favicon.png" alt="logo">
       </a>
 

@@ -6,7 +6,7 @@
     
 @endpush
 @section('content')
-<section class="values mt-3">
+<section class="values mt-5">
 
     <div class="container" data-aos="fade-up">
 

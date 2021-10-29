@@ -30,7 +30,7 @@
         
       <div class="row">
         <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100">
-            <img width="300px" src="assets/img/features-3.png" class="img-fluid p-4" alt="">
+            <img width="300px" src="{{asset('assets/img/features-3.png')}}" class="img-fluid p-4" alt="">
         </div>
         <div class="col-12 col-xl-8">
         <header class="section-header">
@@ -43,7 +43,7 @@
 
       <div class="row">
         <div class="col-xl-4 text-center d-xl-none" data-aos="fade-right" data-aos-delay="100">
-            <img width="300px" src="assets/img/features-3.png" class="img-fluid p-4" alt="">
+            <img width="300px" src="{{asset('assets/img/features-3.png')}}" class="img-fluid p-4" alt="">
         </div>
         <div class="col-12 col-xl-8">
         <header class="section-header">
@@ -53,13 +53,13 @@
             Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
         </div>
         <div class="col-xl-4 text-center d-none d-xl-block" data-aos="fade-right" data-aos-delay="100">
-            <img width="300px" src="assets/img/features-3.png" class="img-fluid p-4" alt="">
+            <img width="300px" src="{{asset('assets/img/features-3.png')}}" class="img-fluid p-4" alt="">
         </div>
       </div>
 
       <div class="row">
         <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100">
-            <img width="300px" src="assets/img/features-3.png" class="img-fluid p-4" alt="">
+            <img width="300px" src="{{asset('assets/img/features-3.png')}}" class="img-fluid p-4" alt="">
         </div>
         <div class="col-12 col-xl-8">
         <header class="section-header">
@@ -72,7 +72,7 @@
 
       <div class="row">
         <div class="col-xl-4 text-center d-xl-none" data-aos="fade-right" data-aos-delay="100">
-            <img width="300px" src="assets/img/features-3.png" class="img-fluid p-4" alt="">
+            <img width="300px" src="{{asset('assets/img/features-3.png')}}" class="img-fluid p-4" alt="">
         </div>
         <div class="col-12 col-xl-8">
         <header class="section-header">
@@ -82,13 +82,13 @@
             Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
         </div>
         <div class="col-xl-4 text-center d-none d-xl-block" data-aos="fade-right" data-aos-delay="100">
-            <img width="300px" src="assets/img/features-3.png" class="img-fluid p-4" alt="">
+            <img width="300px" src="{{asset('assets/img/features-3.png')}}" class="img-fluid p-4" alt="">
         </div>
       </div>
       
       <div class="row">
         <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100">
-            <img width="300px" src="assets/img/features-3.png" class="img-fluid p-4" alt="">
+            <img width="300px" src="{{asset('assets/img/features-3.png')}}" class="img-fluid p-4" alt="">
         </div>
         <div class="col-12 col-xl-8">
         <header class="section-header">

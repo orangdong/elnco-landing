@@ -16,6 +16,16 @@ class LandingController extends Controller
         return view('pages.landing.service');
     }
 
+    public function service_addon(){
+
+        return view('pages.landing.service-addon');
+    }
+
+    public function service_package(){
+
+        return view('pages.landing.service-package');
+    }
+
     public function integration(){
 
         return view('pages.landing.integration');
@@ -29,6 +39,11 @@ class LandingController extends Controller
     public function corporate(){
 
         return view('pages.landing.corporate');
+    }
+
+    public function corporate_csr(){
+
+        return view('pages.landing.corporate-csr');
     }
 
     public function about(){

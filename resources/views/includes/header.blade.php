@@ -8,19 +8,19 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto {{request()->routeIs('home') ? 'active' : ''}}" href="{{route('home')}}">Home</a></li>
-          <li class="dropdown"><a href="#" class="{{request()->routeIs('service') ? 'active' : ''}}" href="{{route('service')}}"><span>Layanan</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="#" class="{{request()->routeIs('service*') ? 'active' : ''}}"><span>Layanan</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Layanan Utama</a></li>
-              <li><a href="#">Add on</a></li>
-              <li><a href="#">Package</a></li>
+              <li><a href="{{route('service')}}">Layanan Utama</a></li>
+              <li><a href="{{route('service.add-on')}}">Add on</a></li>
+              <li><a href="{{route('service.package')}}">Package</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto {{request()->routeIs('integration') ? 'active' : ''}}" href="{{route('integration')}}">Integrasi</a></li>
           <li><a class="nav-link scrollto {{request()->routeIs('case_study') ? 'active' : ''}}" href="{{route('case_study')}}">Studi kasus</a></li>
-          <li class="dropdown"><a href="#" class="{{request()->routeIs('corporate') ? 'active' : ''}}" href="{{route('corporate')}}" href="{{route('service')}}"><span>Korporasi</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="#" class="{{request()->routeIs('corporate*') ? 'active' : ''}}" href="{{route('corporate')}}"><span>Korporasi</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">GCG</a></li>
-              <li><a href="#">CSR</a></li>
+              <li><a href="{{route('corporate')}}">GCG</a></li>
+              <li><a href="{{route('corporate.csr')}}">CSR</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto {{request()->routeIs('about') ? 'active' : ''}}" href="{{route('about')}}">Tentang kami</a></li>
